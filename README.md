@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**KumarYash641/KumarYash641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer (Beginner Level)  
+📚 Currently Learning Data Structures and Problem Solving  
+🚀 Building Real World Python Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+📂 Smart File Organizer (Python OS Module)  
+📂 Student Grade Management System (Python Dictionary + If-Else)  
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Git
+- GitHub
+- Basic SQL (Learning)
+
+---
+
+## 🎯 Current Focus
+- Python Projects
+- DSA Basics
+- Problem Solving
+
+---
+
+## 📫 Connect With Me
+(Will Update Soon)
+
